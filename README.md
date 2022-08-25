@@ -3,7 +3,7 @@
 💫 Introduction:
 -->
 
-<h1> Hi there, I'm Yves Lorenzo 🚀 </h1>
+<h1> Oi oi, eu sou o Yves Lorenzo 🚀 </h1>
 
 🪐 Aspiring Frontend Developer.
 <br>
