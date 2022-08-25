@@ -34,12 +34,12 @@
 -->
 
   <div align="center">
-   <img height=140em align="center" src="https://github-readme-stats.vercel.app/api?username=yloooowww&hide=contribs,prs&show_icons=true&theme=black" alt="js"/>
-   <img height=140em align="center" src="http://github-readme-streak-stats.herokuapp.com?user=jscloneski&theme=tokyonight" alt="js"/>
+   <img height=140em align="center" src="https://github-readme-stats.vercel.app/api?username=yloooowww&hide=contribs,prs&show_icons=true&theme=midnight-purple" alt="js"/>
+   <img height=140em align="center" src="http://github-readme-streak-stats.herokuapp.com?user=jscloneski&theme=midnight-purple" alt="js"/>
   </div>
 
   <div align="center">
-   <img height=152em align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jscloneski&&layout=compact&theme=tokyonight" alt="js"/>
+   <img height=152em align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jscloneski&&layout=compact&theme=midnight-purple" alt="js"/>
   </div>
 
 <!--
