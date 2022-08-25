@@ -5,9 +5,9 @@
 
 <h1> Oi oi, eu sou o Yves Lorenzo 🚀 </h1>
 
-🪐 Aspiring Frontend Developer.
+🪐 Frontend Developer.
 <br>
-🪐 Currently studying HTML, CSS & JS.
+🪐 Estudando HTML, CSS & JS.
 
 <div align="left">
 <img src="https://komarev.com/ghpvc/?username=yloooowww&label=PROFILE+VIEWS">
