@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 
 ## Snake Game
-![snake gif](https://github.com/yloooowww/yloooowww/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/yloooowww/yloooowww/blob/output/github-contribution-grid-snake.svg)
