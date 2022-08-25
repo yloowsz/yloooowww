@@ -1,19 +1,58 @@
-### Hi there 👋
+<header>
+ <!--
+💫 Introduction:
+-->
+
+<h1> Hi there, I'm Yves Lorenzo 🚀 </h1>
+
+🪐 Aspiring Frontend Developer
+<br>
+🪐 Currently studying HTML & CSS
+
+<div align="left">
+<img src="https://komarev.com/ghpvc/?username=yloooowww&label=PROFILE+VIEWS">
+</div>
 
 <!--
-**yloooowww/yloooowww** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+👾 Gif:
 -->
+ 
+<div align="center">
+ <img align="center" src="https://github.com/jscloneski/jscloneski/blob/main/giphy.gif">
+</div>
+<br>
+
+</header>
+
+<main>
+
+<h2> 🪐 GitHub stats: </h2>
+<br>
+
+<!--
+📖 Read me status:
+-->
+
+  <div align="center">
+   <img height=140em align="center" src="https://github-readme-stats.vercel.app/api?username=yloooowww&hide=contribs,prs&show_icons=true&theme=tokyonight" alt="js"/>
+   <img height=140em align="center" src="http://github-readme-streak-stats.herokuapp.com?user=jscloneski&theme=tokyonight" alt="js"/>
+  </div>
+
+  <div align="center">
+   <img height=152em align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jscloneski&&layout=compact&theme=tokyonight" alt="js"/>
+  </div>
+
+<!--
+🐍📊 Snake game contribution chart:
+-->
+
+<h2> 🪐 Contribution chart: </h2>
+ 
+<div align="center">
+<img width=870 src="https://github.com/yloooowww/yloooowww/blob/output/github-contribution-grid-snake.svg" alt="snake"/>
+</div>
+
+</main>
 
 ## Snake Game
 ![snake gif](https://github.com/yloooowww/yloooowww/blob/output/github-contribution-grid-snake.svg)
