@@ -46,13 +46,10 @@
 🐍📊 Snake game contribution chart:
 -->
 
-<h2> 🪐 Contribution chart: </h2>
+<h2> 🪐 Snake Game: </h2>
  
 <div align="center">
 <img width=870 src="https://github.com/yloooowww/yloooowww/blob/output/github-contribution-grid-snake.svg" alt="snake"/>
 </div>
 
 </main>
-
-## Snake Game
-![snake gif](https://github.com/yloooowww/yloooowww/blob/output/github-contribution-grid-snake.svg)
